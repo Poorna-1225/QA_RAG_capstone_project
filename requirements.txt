@@ -1,0 +1,9 @@
+deeplake ==3.9.27
+llama-index ==0.10.50
+langchain ==0.2.6
+langchain_community == 0.2.6
+cohere ==5.5.8
+openai==1.35.7
+
+ipykernel
+python-dotenv
